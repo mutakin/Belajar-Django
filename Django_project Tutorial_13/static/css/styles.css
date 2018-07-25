@@ -1,0 +1,13 @@
+.jumbotron{
+    background-image: url(../img/mainHeader.jpg);
+    background-position: center ;
+    background-size: cover;
+    height: 500px;
+}
+
+
+#myBody{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
